@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>me.wencanp</groupId>
-	<artifactId>onlineLib</artifactId>
+	<artifactId>interestVault</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>onlineLib</name>
+	<name>interestVault</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
