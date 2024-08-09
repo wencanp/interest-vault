@@ -65,6 +65,25 @@
     			<artifactId>mysql-connector-java</artifactId>
     			<version>8.0.33</version> 
 		</dependency>
+		 <!-- Jakarta Persistence API -->
+        	<dependency>
+            		<groupId>jakarta.persistence</groupId>
+            		<artifactId>jakarta.persistence-api</artifactId>
+            		<version>3.1.0</version>
+        	</dependency>
+
+	        <!-- Hibernate JPA Implementation -->
+	        <dependency>
+	            <groupId>org.hibernate</groupId>
+	            <artifactId>hibernate-core</artifactId>
+	            <version>6.1.7.Final</version>
+	        </dependency>
+
+	        <!-- Spring Boot Starter Data JPA (includes Hibernate) -->
+	        <dependency>
+	            <groupId>org.springframework.boot</groupId>
+	            <artifactId>spring-boot-starter-data-jpa</artifactId>
+	        </dependency>
 
 	</dependencies>
 
